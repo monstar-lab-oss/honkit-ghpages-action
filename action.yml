@@ -1,0 +1,13 @@
+name: Honkits
+description: Run Honkits on Push and PR events
+branding:
+  color: purple
+  icon: eye
+outputs:
+  result: 
+    description: 'Honkits log output'
+  exitcode:
+    description: 'Success for failure value from scan'
+runs:
+  using: "docker"
+  image: "Dockerfile"
