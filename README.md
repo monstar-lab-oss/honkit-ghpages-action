@@ -2,7 +2,7 @@
 
 ## Instruction
 
-1. Write gitbook markdown documents and save them to our consulting repository.
+1. Write gitbook markdown documents and save them to a document GitHub repository.
 2. Setup 2 secrets in Secrets of the repository.
    1. USER_NAME -> GitHub username
    2. USER_EMAIL -> GitHub user email
