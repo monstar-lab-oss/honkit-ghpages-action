@@ -26,7 +26,7 @@
         runs-on: ubuntu-latest
         steps:
           - name: Build and deploy
-            uses: monstar-lab-group/honkit-ghpages-action@main
+            uses: monstar-lab-oss/honkit-ghpages-action@main
     ```
 
 4. Setup GitHub Pages of the repo.
